@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81692218302",
+    "project_id": "wishtree-demo",
+    "storage_bucket": "wishtree-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81692218302:android:40be2d217bb69713e91fef",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81692218302-9scaem7rmoh8m32fqq35o0sc8qve03to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD0g-lUCj6M4Ty9vDae7PM0oOIqFP0oi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81692218302-9scaem7rmoh8m32fqq35o0sc8qve03to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
